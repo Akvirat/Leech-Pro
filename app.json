@@ -5,9 +5,9 @@
   "keywords": [
     "telegram"
   ],
-  "repository": "https://github.com/GreyMatter658/Leech-Pro",
-  "success_url": "https://t.me/Greymatter_bots",
-  "website": "https://github.com/GreyMatter658/Leech-Pro",
+  "repository": "https://github.com/Akvirat/Leech-Pro",
+  "success_url": "https://t.me/Legends_leech_robot",
+  "website": "https://github.com/Akvirat/Leech-Pro",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
