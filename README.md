@@ -1,6 +1,6 @@
 [![GreyMatter's Bot LEECH V2](https://telegra.ph/file/af8f0596124714a17e4e2.png)](https://t.me/+396rgEDG8BowMWY5)
 
-## 👉 [Orginal Repository](https://github.com/gautamajay52/TorrentLeech-Gdrive)
+## 👉 [Orginal Repository](https://github.com/Akvirat/TorrentLeech-Gdrive)
 
 [![GreyMatter's Support](https://telegra.ph/file/d18fa7fa33f26f733adb9.png)](https://t.me/greymatters_bots_discussion)
 
